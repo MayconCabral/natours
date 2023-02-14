@@ -11,7 +11,7 @@
 <p>I like <strong>React.Js</strong> for its flexibility due to its modular structure with the high performance - <em>the core of the framework offers a virtual DOM program and server-side rendering </em>- which makes complex apps run fast. I enjoy the <strong>React.Js</strong> reusable components with the potencial to save what is the most important in our days life: <strong><em>Time</em></strong>.</p>
 </div>
 
-<h3 align=""center>Check it by <a href="https://mayconcabral.github.io/natours/">clicking here</a></h3>
+<h3 align="center">Check it by <a href="https://mayconcabral.github.io/natours/">clicking here</a>:smiley:</h3>
 
 ___________________________
 
