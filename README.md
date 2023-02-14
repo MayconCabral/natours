@@ -13,9 +13,13 @@
 </div>
 
 
-<div>
-<img>
+<p align="center">
+    <img src="https://github.com/MayconCabral/Natours/blob/main/github_img/header.gif">
+</p>
 <p>The <em>header.test.js</em> file will test the user's action of clicking on the menu and showing 5 options</p>
-<img>
+
+<p align="center">
+<img src="https://github.com/MayconCabral/Natours/blob/main/github_img/section-tours.gif">
+</p>
 <p>The <em>section_tours.test.js</em> file will test the mouse hover on the cards, showing the backface content and also the mouse click event for the popup window.</p>
-</div>
+
