@@ -12,6 +12,7 @@
 <p>I am using - <em>React Testing Library</em> - to confirm that this project will not break if I add new feutures in the future. </p>
 </div>
 
+___________________________
 
 <p align="center">
     <img src="https://github.com/MayconCabral/Natours/blob/main/github_img/header.gif">
@@ -22,4 +23,17 @@
 <img src="https://github.com/MayconCabral/Natours/blob/main/github_img/section-tours.gif">
 </p>
 <p>The <em>section_tours.test.js</em> file will test the mouse hover on the cards, showing the backface content and also the mouse click event for the popup window.</p>
+
+___________________________
+
+### Tecnologies 
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
 
