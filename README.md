@@ -15,7 +15,9 @@
 
 ___________________________
 
-<p>I am using - <em>React Testing Library</em> - to confirm that this project will not break if I add new feutures in the future. </p>
+<img src="https://github.com/MayconCabral/natours/blob/main/github_img/natours_folder.PNG">
+
+<p>I am using - <em>React Testing Library</em> - to confirm that this project will not break and it will work correctly. </p>
 <p align="center">
     <img src="https://github.com/MayconCabral/Natours/blob/main/github_img/header.gif">
 </p>
