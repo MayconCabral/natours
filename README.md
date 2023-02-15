@@ -2,7 +2,7 @@
 
 <div style="column-count: 2; column-rule: 1px solid white; text-align: justify; column-gap: 4rem; margin-bottom: 3rem">
 <p>Through the course <em>Advanced CSS and SASS</em> created by <em>Jonas Schmedtmann</em>, I could learn tons of modern CSS techniques, deeply understand how CSS works behind the scenes: <em>the cascade, specificity, inheritance, etc.</em></p>
-<p>Also be able to use the two powerful CSS tools - <em>Flexbox and Grid</em> - that allow for a unique level of customization in modern web design, with an advanced responsive desing, such as <em>media queries, mobile-first vs desktop-first, em vc rem, unit</em> and much more.</p>
+<p>Also be able to use the two powerful CSS tools - <em>Flexbox and Grid</em> - that allow for a unique level of customization in modern web design, with an advanced responsive desing, such as <em>media queries, mobile-first vs desktop-first, em vs rem, unit</em> and much more.</p>
 <p>Bring life to a website with CSS animation is what I like most! With this course I could learn more possibilities using <em>@keyframes, animation and transition</em>.</p>
 </div>
 
