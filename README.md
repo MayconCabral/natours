@@ -7,7 +7,7 @@
 </div>
 
 <div style="text-align: justify;">
-<p>Despite the fact that the Jonas Schmedtmann course primarily focuses on HTML, CSS, and SASS, I chose to develop my project using <strong>React.js.</strong></p>
+<p>Despite the fact that the Jonas Schmedtmann course primarily focuses on <strong>HTML, CSS, and SASS,</strong> I chose to develop my project using <strong>React.js.</strong></p>
 <p>What I appreciate most about <strong>React.js</strong> is its flexibility due to its modular structure and high performance. The framework's core offers a virtual DOM program and server-side rendering, which makes even complex applications run smoothly. Moreover, I find the reusable components of <strong>React.js</strong> to be highly efficient and capable of saving considerable production time.</p>
 </div>
 
