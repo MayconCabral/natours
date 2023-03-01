@@ -1,14 +1,14 @@
 <h1 align="center">Natours Project</h1>
 
 <div style="column-count: 2; column-rule: 1px solid white; text-align: justify; column-gap: 4rem; margin-bottom: 3rem">
-<p>Through the course <em>Advanced CSS and SASS</em> created by <em>Jonas Schmedtmann</em>, I could learn tons of modern CSS techniques, deeply understand how CSS works behind the scenes: <em>the cascade, specificity, inheritance, etc.</em></p>
-<p>Also be able to use the two powerful CSS tools - <em>Flexbox and Grid</em> - that allow for a unique level of customization in modern web design, with an advanced responsive desing, such as <em>media queries, mobile-first vs desktop-first, em vs rem, unit</em> and much more.</p>
-<p>Bring life to a website with CSS animation is what I like most! With this course I could learn more possibilities using <em>@keyframes, animation and transition</em>.</p>
+<p>By taking the <em>Advanced CSS and SASS</em> course developed by <strong>Jonas Schmedtmann</strong>, I acquired a vast array of modern CSS techniques, enabling me to comprehend deeply how CSS works behind the scenes, including the cascade, specificity, inheritance, and more.</p>
+<p>Additionally, I have become proficient in utilizing two powerful CSS tools, Flexbox and Grid, which permit unparalleled levels of customization in contemporary web design. I am also skilled in advanced responsive design techniques, such as media queries, mobile-first vs desktop-first, em VS rem units, and much more.</p>
+<p>Animating a website with CSS is what I enjoy the most, and with this course, I learned various techniques using <strong>@keyframes, animation, and transition.</strong></p>
 </div>
 
 <div style="text-align: justify;">
-<p>I decided to make this project with <strong>React.Js</strong>, although the <em>Jonas Schmedtmann</em> course is focus on <strong>HTML</strong>, <strong>CSS</strong> and <strong>SASS</strong>.</p>
-<p>I like <strong>React.Js</strong> for its flexibility due to its modular structure with the high performance - <em>the core of the framework offers a virtual DOM program and server-side rendering </em>- which makes complex apps run fast. I enjoy the <strong>React.Js</strong> reusable components with the potencial to save what is the most important in our days life: <strong><em>Time</em></strong>.</p>
+<p>Despite the fact that the Jonas Schmedtmann course primarily focuses on HTML, CSS, and SASS, I chose to develop my project using <strong>React.js.</strong></p>
+<p>What I appreciate most about <strong>React.js</strong> is its flexibility due to its modular structure and high performance. The framework's core offers a virtual DOM program and server-side rendering, which makes even complex applications run smoothly. Moreover, I find the reusable components of <strong>React.js</strong> to be highly efficient and capable of saving considerable production time.</p>
 </div>
 
 <h3 align="center">Check it by <a href="https://mayconcabral.github.io/natours/">clicking here </a>:smiley:</h3>
@@ -17,16 +17,16 @@ ___________________________
 
 <img src="https://github.com/MayconCabral/natours/blob/main/github_img/natours_folder.PNG">
 
-<p>I am using - <em>React Testing Library</em> - to confirm that this project will not break and it will work correctly. </p>
+<p>I have also implemented it using <strong>React Testing Library</strong> to ensure that this project is free from errors and functions correctly.</p>
 <p align="center">
     <img src="https://github.com/MayconCabral/Natours/blob/main/github_img/header.gif">
 </p>
-<p align="center">The <em>header.test.js</em> file will test the user's action of clicking on the menu and showing 5 options</p>
+<p align="center">The <em>header.test.js</em> file tests the user's action of clicking on the menu and displaying five options.</p>
 
 <p align="center">
 <img src="https://github.com/MayconCabral/Natours/blob/main/github_img/section-tours.gif">
 </p>
-<p align="center">The <em>section_tours.test.js</em> file will test the mouse hover on the cards, showing the backface content and also the mouse click event for the popup window.</p>
+<p align="center">While the <em>section_tours.test.js</em> file tests mouse hover effects on the cards, showing the backface content, and mouse click events for the popup window.</p>
 
 ___________________________
 
